@@ -18,6 +18,7 @@ My AnimeList adalah website informasi jadwal Anime
 __Home Page__
 ![main](screenshoot/anime.JPG)
 
+---
 
 ### Get in Touch 
 
@@ -30,6 +31,8 @@ __Home Page__
 
 - OVO : 085887322352
 - Paypal :[ziassy](https://www.paypal.me/ziassy)
+
+---
 
 
 ###### tags: `component`  `Webpack` `es6` `anime`
