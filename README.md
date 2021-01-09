@@ -8,6 +8,17 @@ My AnimeList adalah website informasi jadwal Anime
 - __Fitur Search__ Mencari judul Anime,
 - __Top Upcoming__ Daftar Anime yang segera liris,
 
+
+### Created By
+- [Pauziah](https://github.com/ziassy)
+
+### Screenshot
+![main](screenshoot/anime.gif)
+
+__Home Page__
+![main](screenshoot/anime.JPG)
+
+
 ### Get in Touch 
 
 - Twitter: [@ziassy](https://twitter.com/ZIASSY1)
@@ -21,4 +32,4 @@ My AnimeList adalah website informasi jadwal Anime
 - Paypal :[ziassy](https://www.paypal.me/ziassy)
 
 
-###### tags: `component` ` `Webpack` `es6` `anime`
+###### tags: `component`  `Webpack` `es6` `anime`
