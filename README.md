@@ -23,7 +23,7 @@ __Home Page__
 ### Get in Touch 
 
 - Twitter: [@ziassy](https://twitter.com/ZIASSY1)
-- Instagram : [@fauziiyaa_](https://www.instagram.com/fauziiyaa_/)
+- Instagram : [@developershine](https://www.instagram.com/developershine/)
 - Email : [pauziahid@gmail.com](mailto:pauziahid@gmail.com)
 - Telegram : [Ziassy](https://t.me/ziassy)
 
